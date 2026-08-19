@@ -1,1 +1,1 @@
-web: python gateway.py
+web: python gateway.py --port 8010
